@@ -2,7 +2,7 @@
 
 To run the notebook: 'Main_system_CNN_BiLSTM.ipynb'; you need: 
 
-(1) The necessary modules installed (specified in step 1. in the notebook). 
+(1) The necessary modules installed (specified in step 1 in the notebook itself). 
 
 (2) Pre-trained Dutch Word Embeddings installed, can be found & downloaded here: https://github.com/coosto/dutch-word-embeddings
 
