@@ -1,4 +1,5 @@
 #READ ME
+This preprocessing is intended to clean raw tweets provided in a CSV file, for the purpose of providing the annotators with cleaned tweets. 
 
 To run the following notebook: 'preprocessing_raw_tweets.ipynb'; you need the following: 
 
