@@ -25,7 +25,8 @@ Folder 'Initial preprocessing' contains a notebook to preprocess the initial raw
 
 # Resources
 Word Embeddings:
-Due to the large size, the open-source pre-trained Dutch word embeddings were not uploaded here. However, to be able to run the CNN-BiLSTM, you need those word embeddings. These acan be downloaded from the following github page: https://github.com/coosto/dutch-word-embeddings.
+
+Due to the large size, the open-source pre-trained Dutch word embeddings were not uploaded here. However, to be able to run the CNN-BiLSTM, you need those word embeddings. These can be downloaded from the following github page: https://github.com/coosto/dutch-word-embeddings.
 
 
 # References
