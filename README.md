@@ -18,8 +18,10 @@ In the 'Data' folder you can find the excel file 'gold.xlsx' with the training a
 
 In each folder you can find one jupyter notebook containing the code and the data for system input. 
 
-# RESOURCES
-# Word Embeddings
+Folder 'Pipeline-for-Internship-Red-Data', containins the final pipeline for Red Data in a .py file. This .py file contains the two 'best' performing systems (SVM polarity labels and SVM proactivity labels) and outputs a JSON file containing the tweets with their two labels. 
+
+# Resources
+Word Embeddings:
 Due to the large size, the open-source pre-trained Dutch word embeddings were not uploaded here. However, to be able to run the CNN-BiLSTM, you need those word embeddings. These acan be downloaded from the following github page: https://github.com/coosto/dutch-word-embeddings.
 
 
