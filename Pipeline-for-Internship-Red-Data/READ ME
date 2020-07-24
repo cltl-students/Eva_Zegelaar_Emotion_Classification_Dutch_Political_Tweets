@@ -1,0 +1,10 @@
+# READ ME
+
+To run the .py file 'pipeline-for-Red-Data.py' from the terminal you need the following files in the same folder: 
+(1) unseen_tweets.csv
+(2) gold.xlsx
+
+The command from the terminal: python Pipeline-for-Internship-Red-Data/system-for-unseen-tweets.py Pipeline-for-Internship-Red-Data/unseen_tweets.csv
+
+Output: (3)	The output will be a JSON file, like so:   {tweet: [‘sentiment’, ‘proactivity’]} . An example of this output is provided in this folder; the file is called 'system_output.json'.
+
