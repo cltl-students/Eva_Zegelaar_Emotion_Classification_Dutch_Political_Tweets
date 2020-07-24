@@ -2,7 +2,7 @@
 
 To run the notebook: 'Baseline_system_SVM.ipynb'; you need: 
 
-(1) The necessary modules installed (specified in step 1 in the notebook itself). 
+(1) The necessary modules installed (specified at beginning of the notebook itself). 
 
 (2) Data: gold.xlsx
  
