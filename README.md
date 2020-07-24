@@ -23,7 +23,7 @@ In each folder you can find one jupyter notebook containing the code and the dat
 Due to the large size, the open-source pre-trained Dutch word embeddings were not uploaded here. However, to be able to run the CNN-BiLSTM, you need those word embeddings. These acan be downloaded from the following github page: https://github.com/coosto/dutch-word-embeddings.
 
 
-# REFERENCES 
+# References
 
 A. Nieuwenhuisje. Open-source dutch word embeddings, Jul 2018a. URL https://www.linkedin.com/pulse/open-source-dutch-word-embeddings-alexander-nieuwenhuijse/.
 
