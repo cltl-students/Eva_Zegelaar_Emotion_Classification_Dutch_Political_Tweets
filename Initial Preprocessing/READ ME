@@ -1,0 +1,8 @@
+#READ ME
+
+To run the following notebook: 'preprocessing_raw_tweets.ipynb'; you need the following: 
+
+(1) example_raw_tweets.csv
+(2) the necessary modules, defined at the beginning of the notebook. 
+
+Output: cleaned tweets ready for the annotators to label each tweet. 
