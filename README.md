@@ -22,3 +22,12 @@ In each folder you can find one jupyter notebook containing the code and the dat
 # Word Embeddings
 Due to the large size, the open-source pre-trained Dutch word embeddings were not uploaded here. However, to be able to run the CNN-BiLSTM, you need those word embeddings. These acan be downloaded from the following github page: https://github.com/coosto/dutch-word-embeddings.
 
+
+# REFERENCES 
+
+A. Nieuwenhuisje. Open-source dutch word embeddings, Jul 2018a. URL https:// www.linkedin.com/pulse/open-source-dutch-word-embeddings-alexander-nieuwenhuijse/.
+A. Nieuwenhuisje. dutch-word-embeddings. Jul 2018b. URL https://github.com/ coosto/dutch-word-embeddings.
+S. Dandge. saitejdandge/sentimentalanalysislstmconv1d,Feb2019. https://github.com/saitejdandge/Sentimental_Analysis_LSTM_Conv1D
+Kaggle. Lstm with word2vec embeddings, Apr 2017. URL https://www.kaggle.com/ lystdo/lstm-with-word2vec-embeddings.
+Keras. Keras documentation: Bidirectional lstm on imdb, May 2020. URL https: //keras.io/examples/nlp/bidirectional_lstm_imdb/.
+Z.-X. Liu, D.-G. Zhang, G.-Z. Luo, M. Lian, and B. Liu. A new method of emotional analysis based on cnn–bilstm hybrid neural network. Cluster Computing, Mar 2020. 10.1007/s10586-020-03055-9.
