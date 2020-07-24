@@ -19,7 +19,7 @@ In the 'Data' folder you can find the excel file 'gold.xlsx' with the training a
 In each folder you can find one jupyter notebook containing the code and the data for system input. 
 
 # Additional Folders
-Folder 'Pipeline-for-Internship-Red-Data', contains the final pipeline for Red Data (my internship company) in a .py file. This .py file contains the two better performing systems (SVM polarity labels and SVM proactivity labels) and outputs a JSON file containing the tweets with their two labels. 
+Folder 'Pipeline-for-Internship-Red-Data', contains the final pipeline for Red Data (my internship company) in a .py file. This .py file contains the two better performing systems (SVM polarity labels and SVM proactivity labels) and outputs a JSON file containing the tweets with the corresponding labels. 
 
 Folder 'Initial preprocessing' contains a notebook to preprocess the initial raw tweets. 
 
