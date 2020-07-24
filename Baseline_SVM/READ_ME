@@ -1,0 +1,10 @@
+#READ ME
+
+To run the notebook: 'Baseline_system_SVM.ipynb'; you need: 
+
+(1) The necessary modules installed (specified in step 1 in the notebook itself). 
+
+(2) Data: gold.xlsx
+ 
+
+Output: A trained SVM with its evaluation. 
