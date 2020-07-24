@@ -11,7 +11,9 @@ Eva_Zegelaar_Thesis_Report.pdf
 
 
 # Data
-In the 'Data' folder you can find the excel file 'gold.xlsx' with the training and test data containing all the gold annotations. The data can also be found in the folders containing the the systems. 
+In the 'Data' folder you can find the excel file 'gold.xlsx' with the training and test data containing all the gold annotations. The data can also be found in the folders containing the systems. 
+
+Gathering and annotating the data was part of this thesis project. The provided excel file contains the 'most correct' labels of my agreement study (more information on this can be found in the thesis report Chapter 3 (Eva_Zegelaar_Thesis_Report.pdf). 
 
 # Systems
 2 Folders named: 'Main_CNN_BiLSTM'  & 'Baseline_SVM'. 
